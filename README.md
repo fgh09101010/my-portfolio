@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 線上即時預覽
-👉 **[點此查看我的個人作品集](https://fgh09101010.github.io/my-portfolio/)**
+👉 **[點此查看我的證照及獲獎紀錄](https://fgh09101010.github.io/my-portfolio/)**
 
 ---
 
