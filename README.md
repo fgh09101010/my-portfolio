@@ -1,14 +1,12 @@
 # 🚀 Chien-Chang Chen | 專業證照與競賽獲獎紀錄冊
 
-![Portfolio Preview](https://fgh09101010.github.io/picture/avatar.jpg)
-
 > **「遇到問題不慌張，用方法與耐心把複雜變簡單。」**
 > 這是一個基於現代 Web 技術打造的互動式戰力總覽平台，整合了我歷年來的全國性程式競賽榮譽與專業技術認證。
 
 ---
 
 ## 🔗 線上即時預覽
-👉 **[點此查看我的個人作品集](https://fgh09101010.github.io/)**
+👉 **[點此查看我的個人作品集](https://fgh09101010.github.io/my-portfolio/)**
 
 ---
 
